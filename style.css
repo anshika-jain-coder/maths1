@@ -1,0 +1,47 @@
+body{
+    background: linear-gradient(to bottom, #9933ff 30%, #cc00cc 100%);
+}
+h2{
+    font-variant:small-caps;
+    color: black;
+}
+h1{
+    font-variant:small-caps;
+    font-size:150px;
+    color: black;
+}
+#btn{
+    width:60px;
+ background-color: deeppink;
+}
+.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+    background: linear-gradient(to bottom, #0033cc 0%, #66ccff 100%);
+border-radius: 10px;
+border-top: 10px solid #e3e3e3;
+padding: 10px;
+float: none;
+text-align: left;
+}
